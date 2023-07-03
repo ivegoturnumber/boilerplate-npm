@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
   	"author": "ivegoturnumber",
 	"description": "some description",
+	"keywords": [ "freecodecamp", "microservice", "guide" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
